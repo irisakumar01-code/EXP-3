@@ -1,16 +1,15 @@
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
-
 AIM
  To control the status of the given lamp by using two–way switches. 
+ 
 APPARATUS REQUIRED:
 
 S. No.
 Name of the apparatus	
 Range / Type	
 Quantity
-
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
@@ -19,13 +18,13 @@ Quantity
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
 
-
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -38,9 +37,7 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-
 Direct connection:
-
 CIRCUIT DIAGRAM: 
 <img width="1028" height="657" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/11e71420-11bd-4d15-8f3e-596615cd32e3" />
 
@@ -48,7 +45,6 @@ Tabulation:1
 <img width="1600" height="1104" alt="image" src="https://github.com/user-attachments/assets/1e51d4a2-7301-495b-82c8-3747c6f457dd" />
 
 Cross connection:
-
 CIRCUIT DIAGRAM:
 <img width="1034" height="622" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ef08e42b-24c0-4dd0-a752-0bbfdcc90201" />
 

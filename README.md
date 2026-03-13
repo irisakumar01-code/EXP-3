@@ -3,7 +3,6 @@ EXPT NO: 3				STAIR CASE WIRING
 
 AIM
  To control the status of the given lamp by using two–way switches. 
- 
 APPARATUS REQUIRED:
 S. No.
 Name of the apparatus	
@@ -16,7 +15,6 @@ Quantity
 5	P.V.C Pipe	1/4"	As per requirement
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
-
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.

@@ -81,7 +81,6 @@ CIRCUIT DIAGRAM:
 Tabulation:2
 
 <img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/cb932825-1bb4-4434-9fd1-d7ccc5f65058" />
-.
 
 .
 
@@ -93,11 +92,6 @@ Tabulation:2
 
 .
 
-.
-
-.
-
-.
 RESULT:
 
 Thus the staircase wiring is connected and tested.
